@@ -1,0 +1,6 @@
+# Python 3.12.1
+# To install a CPU-only version of Transformers and a machine learning framework, run the following command.
+# pip install 'transformers[torch]'
+# Source https://huggingface.co/docs/transformers/en/installation?install=pip
+# Not sure how to translate that into requirements.txt
+# transformers==4.56.2
