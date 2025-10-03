@@ -5,4 +5,6 @@
 # Not sure how to translate that into requirements.txt
 # transformers==4.56.2
 pillow==11.3.0
+pytesseract==0.3.13
+pandas==2.3.3
 

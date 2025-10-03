@@ -1,0 +1,2 @@
+Image_File,Invoice_Number,Invoice_Number_Score,Purchase_Amount,Purchase_Amount_Score,Billed_To,Billed_To_Score,Email,Email_Score
+invoice-template-overview.webp,#1052,0.9998869895935059,$146.90,0.8630225658416748,Bob Jones,0.9999159574508667,hello@questprovider.com,0.9642970561981201

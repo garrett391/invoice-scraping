@@ -4,4 +4,4 @@ https://www.youtube.com/watch?v=nNMODvVq3IU
 
 
 
-Unfortunately you need pytesseract to use the model in the video 
+You need pytesseract to use the model in the video, which requires tesseract to be installed. Download tesseract [here](https://github.com/UB-Mannheim/tesseract/wiki).
